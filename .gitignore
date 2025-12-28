@@ -1,0 +1,16 @@
+# 가상환경 (Virtual Environments)
+.venv/
+venv/
+ENV/
+env/
+PYTHON_ENV/
+
+# 파이썬 캐시 및 컴파일 파일
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 배포 및 빌드 아티팩트
+dist/
+build/
+*.egg-info/
