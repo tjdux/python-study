@@ -59,7 +59,7 @@
   - Inheritance
   - Class method
   - Static method
-  - Lambda expression
+  - special / magic method
 
 ### [10 file.ipynb](10%20file.ipynb)
   - File Management
@@ -87,4 +87,6 @@
   - Data typing (type hint)
   - User Defined Error
   - map / filter function
+  - Lambda expression
+  - `__name__` 스페셜 변수
 
