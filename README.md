@@ -23,6 +23,10 @@
   - Nested Data Structure
   - Set
   - Tuples
+  - Collections module
+    - Counter
+    - defaultdict
+    - namedtuple
 
 ### [04 iteration.ipynb](04%20iteration.ipynb)
   - For loop
@@ -60,6 +64,8 @@
   - Class method
   - Static method
   - special / magic method
+  - Abstract Base Class (ABC)
+    - Protocol
 
 ### [10 file.ipynb](10%20file.ipynb)
   - File Management
@@ -89,4 +95,6 @@
   - map / filter function
   - Lambda expression
   - `__name__` 스페셜 변수
+  - Generators
+  - Zip compression module
 
