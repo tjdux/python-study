@@ -44,6 +44,7 @@
   - Mini Proj: Prime number
   - Higher Order Function
   - Advanced Python arguments
+  - unpacking args, kwargs
 
 ### [06 assignment_shallow_copy_deep_copy.ipynb](06%20assignment_shallow_copy_deep_copy.ipynb)
   - Assignment
@@ -97,4 +98,5 @@
   - `__name__` 스페셜 변수
   - Generators
   - Zip compression module
+  - Enum
 
